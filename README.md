@@ -22,7 +22,7 @@ docker run --name my_mongo -d -p 127.0.0.1:27017:27017 mongo:latest
 
 ```
 
-Hey, is done, now let's download the *Mongo Compass*, see this page [Document](https://docs.mongodb.com/compass/master/install/#install-on-ubuntu)
+Hey, is done, now let's download the *Mongo Compass*, see this [Document Page](https://docs.mongodb.com/compass/master/install/#install-on-ubuntu)
 
 With *Mongo Compass* we can manager collections in mongodb instance.
 
