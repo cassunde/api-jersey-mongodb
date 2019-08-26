@@ -8,6 +8,8 @@
            	<property name="hibernate.ogm.datastore.provider" value="mongodb"/>
            	<property name="hibernate.ogm.mongodb.host" value="127.0.0.1:27017"/>	
 			<property name="hibernate.ogm.datastore.database" value="ws-mongo"/>
+			<property name="hibernate.ogm.datastore.create_database" value="true"/>
+			
         </properties>
     </persistence-unit>
 </persistence>
